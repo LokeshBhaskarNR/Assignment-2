@@ -1,0 +1,57 @@
+PROBLEM 1 : COUNT NUMBER OF VOWELS IN STRING
+
+	ENTER A STRING : 
+	thoughtCLAN
+	String : thoughtCLAN
+	Number of vowels : 3
+
+PROBLEM 2 : MAX ELEMENT OF ARRAY
+
+	Enter the size of the array: 5
+	Enter array elements:
+	88
+	52
+	78
+	43
+	12
+	Array elements: 
+	88 52 78 43 12 
+	Largest number: 88
+
+PROBLEM 3 : ROTATE ARRAY ON M INDEX
+
+	ENTER THE SIZE OF ARRAY : 
+	5
+	Enter the array : 
+	1
+	2
+	3
+	4
+	5
+	Enter the rotation index : m
+	2
+	Original Array: [1, 2, 3, 4, 5]
+	Array after rotating left by 2 positions: [3, 4, 5, 1, 2]
+
+PROBLEM 4 : REVERSE STRING
+
+	ENTER A STRING 
+	lokesh
+	Original String: lokesh
+	Reversed String: hsekol
+
+PROBLEM 5 : CHECK IF STRING IS PALINDROME
+
+	ENTER A STRING : 
+	lokesh bhaskar
+	lokesh bhaskar is NOT a Palindrome.
+
+	ENTER A STRING : 
+	Malayalam
+	malayalam is a Palindrome.
+
+PROBLEM 6 : DISTINCT ELEMENTS IN STRING
+
+	ENTER A STRING 
+	thoughtclan
+	Distinct characters in "thoughtclan": [t, h, o, u, g, c, l, a, n]

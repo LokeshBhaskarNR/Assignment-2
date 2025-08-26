@@ -1,0 +1,69 @@
+
+--- ThoughtClan Employee Management System ---
+1. Add Developer
+2. Add Manager
+3. Display All Employees
+4. Show Work
+5. Calculate Salaries
+6. Exit
+Enter your choice: 1
+Enter ID: 001
+Enter Name: lokesh
+Enter Programming Language: Java
+Developer added successfully!
+
+--- ThoughtClan Employee Management System ---
+1. Add Developer
+2. Add Manager
+3. Display All Employees
+4. Show Work
+5. Calculate Salaries
+6. Exit
+Enter your choice: 2
+Enter ID: 002
+Enter Name: mohan
+Enter Team Size: 5
+Manager added successfully!
+
+--- ThoughtClan Employee Management System ---
+1. Add Developer
+2. Add Manager
+3. Display All Employees
+4. Show Work
+5. Calculate Salaries
+6. Exit
+Enter your choice: 3
+ID: 1, Name: lokesh, Dept: DEVELOPMENT
+ID: 2, Name: mohan, Dept: MANAGEMENT
+
+--- ThoughtClan Employee Management System ---
+1. Add Developer
+2. Add Manager
+3. Display All Employees
+4. Show Work
+5. Calculate Salaries
+6. Exit
+Enter your choice: 4
+lokesh is writing code in Java
+mohan is managing a team of 5 employees.
+
+--- ThoughtClan Employee Management System ---
+1. Add Developer
+2. Add Manager
+3. Display All Employees
+4. Show Work
+5. Calculate Salaries
+6. Exit
+Enter your choice: 5
+lokesh's Salary: 60000.0
+mohan's Salary: 85000.0
+
+--- ThoughtClan Employee Management System ---
+1. Add Developer
+2. Add Manager
+3. Display All Employees
+4. Show Work
+5. Calculate Salaries
+6. Exit
+Enter your choice: 6
+Exiting... Thank you!
